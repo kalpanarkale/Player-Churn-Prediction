@@ -11,7 +11,7 @@ This repository contains the code and data used for a project focused on predict
 
 ### Player Churn Prediction Dashboard
 
-<div style="display: flex; gap: 15px;">
+<div style="display: flex; align-items: center; justify-content: space-between; gap: 15px;">
 
   <div style="border: 2px solid #fff; border-radius: 5px; padding: 5px;">
     <img src="https://github.com/user-attachments/assets/e58438a5-ef46-45b1-9609-49411a13f623" width="320" />
