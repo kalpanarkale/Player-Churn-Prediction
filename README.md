@@ -11,16 +11,14 @@ This repository contains the code and data used for a project focused on predict
 
 ### Player Churn Prediction Dashboard
 
-### Player Churn Prediction Dashboard
+<div style="display: flex; gap: 15px;">
 
-<div style="display: flex; gap: 20px;">
-
-  <div style="border: 2px solid #ddd; border-radius: 5px; padding: 5px;">
-    <img src="https://github.com/user-attachments/assets/e58438a5-ef46-45b1-9609-49411a13f623" width="360" />
+  <div style="border: 2px solid #fff; border-radius: 5px; padding: 5px;">
+    <img src="https://github.com/user-attachments/assets/e58438a5-ef46-45b1-9609-49411a13f623" width="320" />
   </div>
 
-  <div style="border: 2px solid #ddd; border-radius: 5px; padding: 5px;">
-    <img src="https://github.com/user-attachments/assets/0ffc8ca0-5578-4656-a206-62108df7f6ba" width="360" />
+  <div style="border: 2px solid #fff; border-radius: 5px; padding: 5px;">
+    <img src="https://github.com/user-attachments/assets/0ffc8ca0-5578-4656-a206-62108df7f6ba" width="320" />
   </div>
 
 </div>
