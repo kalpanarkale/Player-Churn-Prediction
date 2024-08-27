@@ -12,11 +12,9 @@ This repository contains the code and data used for a project focused on predict
 ### Player Churn Prediction Dashboard
 
 <p float="left">
-  <img src="https://github.com/user-attachments/assets/e58438a5-ef46-45b1-9609-49411a13f623" width="400" />
-  <img src="https://github.com/user-attachments/assets/0ffc8ca0-5578-4656-a206-62108df7f6ba" width="400" /> 
+  <img src="https://github.com/user-attachments/assets/e58438a5-ef46-45b1-9609-49411a13f623" width="500" />
+  <img src="https://github.com/user-attachments/assets/0ffc8ca0-5578-4656-a206-62108df7f6ba" width="500" /> 
 </p>
 
 **Left:** True churn prediction - churn players dashboard  
 **Right:** False churn prediction - non-churn players dashboard
-![True churn prediction - churn players dashboard](https://github.com/user-attachments/assets/e58438a5-ef46-45b1-9609-49411a13f623)
-![False churn prediction - non-churn players dashboard](https://github.com/user-attachments/assets/0ffc8ca0-5578-4656-a206-62108df7f6ba)
